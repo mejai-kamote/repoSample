@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B8B3-3CA4
+
+ Directory of C:\Users\QUAD PC\Desktop\SampleProject
+
+13/12/2021  03:40 pm    <DIR>          .
+13/12/2021  03:40 pm    <DIR>          ..
+13/12/2021  03:40 pm                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  412,326,342,656 bytes free
